@@ -1,2 +1,1 @@
-# Excel
-Module 1
+Instructor Demo
